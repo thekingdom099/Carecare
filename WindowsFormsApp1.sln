@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp1", "WindowsFormsApp1\WindowsFormsApp1.csproj", "{603278F8-04A8-4696-A8EF-241E16A00A60}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CAR CARE", "CAR CARE\CAR CARE.vdproj", "{8F45BD0D-0B4A-415C-9BBF-31E206686EDD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{603278F8-04A8-4696-A8EF-241E16A00A60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{603278F8-04A8-4696-A8EF-241E16A00A60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{603278F8-04A8-4696-A8EF-241E16A00A60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{603278F8-04A8-4696-A8EF-241E16A00A60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F45BD0D-0B4A-415C-9BBF-31E206686EDD}.Debug|Any CPU.ActiveCfg = Debug
+		{8F45BD0D-0B4A-415C-9BBF-31E206686EDD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20BBEA57-FD08-4087-8E0E-E6D0E64F84A8}
+	EndGlobalSection
+EndGlobal
